@@ -1,4 +1,4 @@
-# AI-PoliticalSurvey
+# Political Survey
 Machine Learning Political Party Survey JavaScript
 
 An program that uses pattern-matching with training data in a survey to guess the user's political party.
